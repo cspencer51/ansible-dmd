@@ -14,8 +14,10 @@ galaxy_info:
       versions:
         - all
   galaxy_tags:
-    - dmd
+    - compiler
+    - d
     - dlang
+    - dmd
 
   dependencies: []
 
